@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** undergr
 - Backend and Frontend Web Development
 
 ## 🚀 Skills & Tools
-- **Programming**: Python, C, C++ , java, HTML ,CSS
+- **Programming**: Python, C, C++ 
 - **Libraries**: NumPy, pandas
 - **Tools**: Visual Studio Code, Arduino 
 

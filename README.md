@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Belton J.
+# 👋 Hi, I'm Belton
 
 🎓 **Computer Science & Engineering Undergraduate**  
 🔍 Specializing in **Artificial Intelligence**  

@@ -1,18 +1,47 @@
-# Hi there! 👋 I'm Belton
+# 👋 Hi, I'm Belton J.
 
-Welcome to my GitHub profile! I'm a **Computer Science and Engineering** undergraduate student specializing in **Artificial Intelligence**. I'm passionate about technology and constantly working on expanding my knowledge in **Machine Learning**, **Robotics**, and **Software Development**.
+🎓 **Computer Science & Engineering Undergraduate**  
+🔍 Specializing in **Artificial Intelligence**  
+🌟 Passionate about **Machine Learning**, **Robotics**, and **Full-Stack Development**
 
-## 🌱 What I'm Learning
-- Machine Learning models
-- Backend and Frontend Web Development
+---
 
-## 🚀 Skills & Tools
-- **Programming**: Python, C, C++ 
-- **Libraries**: NumPy, pandas
-- **Tools**: Visual Studio Code, Arduino 
+## 🚀 About Me
 
-## 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/belton97
-- Email: belton.john30@gmail.com
+I'm an enthusiastic tech learner with a strong interest in AI and emerging technologies. As a CSE undergraduate specializing in Artificial Intelligence, I'm building a foundation in designing intelligent systems while honing my skills across software and hardware domains. I enjoy solving real-world problems through code, contributing to open-source projects, and building innovative applications.
 
-Thanks for stopping by! Feel free to check out my repositories and connect with me!
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Machine Learning (Models, Pipelines, Optimization)
+- 🌐 Full-Stack Web Development (Frontend + Backend)
+- 📊 Data Analysis & Visualization
+- 🔧 Embedded Systems with Arduino
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+`Python` | `C` | `C++`  
+
+**Libraries & Frameworks:**  
+`NumPy` | `pandas` | `scikit-learn` | *(Learning FastAPI & Streamlit)*
+
+**Tools & Platforms:**  
+`VS Code` | `Git & GitHub` | `Arduino IDE` | `Jupyter Notebook`
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/belton97)  
+- 📧 Email: belton.john30@gmail.com  
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories, raise issues, or reach out if you’d like to collaborate on a project.
+
+> *"I shouldn't be alive… unless it was for a reason. I'm not crazy, Pepper. I just finally know what I have to do."*  
+> — **Tony Stark***

@@ -2,7 +2,7 @@
 
 🎓 **Computer Science & Engineering Undergraduate**  
 🔍 Specializing in **Artificial Intelligence**  
-🌟 Passionate about **Machine Learning**, **Robotics**, and **Full-Stack Development**
+🌟 Passionate about **Machine Learning**, **Robotics**
 
 ---
 
